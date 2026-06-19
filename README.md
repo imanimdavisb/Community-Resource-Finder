@@ -1,3 +1,6 @@
+## Demo
+
+![Community Resource Finder Demo](community_resource_finder_demo.png)
 # Community Resource Finder
 
 Community Resource Finder is a Python project that helps users find food assistance and community support resources by searching for a ZIP code, organization name, or resource type.

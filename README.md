@@ -1,6 +1,7 @@
 Community Resource Finder
-Demo
+## Demo
 
+![Program Demo](community_resource_finder_demo.png)
 
 
 
